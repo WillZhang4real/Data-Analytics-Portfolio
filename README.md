@@ -1,2 +1,2 @@
 # Data Science Project
- A collection of my data science projects
+ A collection of my data analytics projects
